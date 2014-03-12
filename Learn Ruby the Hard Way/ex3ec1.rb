@@ -25,5 +25,5 @@ puts "How about some more."
 puts "Is it greater?", 5 > -2
 # Ask a question using Boolean operators and the print the answer on the next line.
 puts "Is it greater or equal?", 5 >= -2
-# Ask a question using Boolean operators and the print the answer on the next line.
+# Ask a question using Boolean operators and then print the answer on the next line.
 puts "Is it less or equal?", 5 <= -2
